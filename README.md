@@ -13,3 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbajaj&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![](https://komarev.com/ghpvc/?username=namanbajaj&style=flat-square)
+
+### Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/namanbajaj) [![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/soyginder) [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/namanbajaj00) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/naman.bajaj_)
