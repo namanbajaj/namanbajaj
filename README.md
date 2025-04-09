@@ -1,20 +1,14 @@
 ## Hi there 👋
 
-<!--
-**namanbajaj/namanbajaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=namanbajaj&style=flat-square" alt="Profile views"/> 
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![](https://komarev.com/ghpvc/?username=namanbajaj&style=flat-square) 
-
-[![namanbajaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=namanbajaj&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbajaj&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=namanbajaj&show_icons=true&theme=transparent" alt="namanbajaj's GitHub stats" />
+  </a>
+  &nbsp; <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namanbajaj&theme=transparent&layout=compact" alt="Top Langs" /> 
+  </a>
+</p>
